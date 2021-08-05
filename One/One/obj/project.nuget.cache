@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ObnRS7gX++jTG4rD9GlwJgJRhD/YJYVGJAiJU7Qsndva/peUf1MMJ7FXCmboQSgMwNUrpnmeqrV1zWrGkaGcvg==",
+  "dgSpecHash": "cdQPHHAjtyO6Bnku6iWnKDq9nfMIS6nue0q2CcMtYRq9o5fyp4LsYRAqQIsWAfqxrVNM6gWIPl3iQ4K56w0lnQ==",
   "success": true,
-  "projectFilePath": "E:\\C-Sharp\\MVVM\\One\\One\\One.csproj",
+  "projectFilePath": "E:\\AutoPro\\One\\One\\One.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\nikit\\.nuget\\packages\\anglesharp\\0.16.0\\anglesharp.0.16.0.nupkg.sha512",
     "C:\\Users\\nikit\\.nuget\\packages\\microsoft.netcore.platforms\\5.0.0\\microsoft.netcore.platforms.5.0.0.nupkg.sha512",

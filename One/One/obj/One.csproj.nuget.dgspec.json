@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\C-Sharp\\MVVM\\One\\One\\One.csproj": {}
+    "E:\\AutoPro\\One\\One\\One.csproj": {}
   },
   "projects": {
-    "E:\\C-Sharp\\MVVM\\One\\One\\One.csproj": {
+    "E:\\AutoPro\\One\\One\\One.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\C-Sharp\\MVVM\\One\\One\\One.csproj",
+        "projectUniqueName": "E:\\AutoPro\\One\\One\\One.csproj",
         "projectName": "One",
-        "projectPath": "E:\\C-Sharp\\MVVM\\One\\One\\One.csproj",
+        "projectPath": "E:\\AutoPro\\One\\One\\One.csproj",
         "packagesPath": "C:\\Users\\nikit\\.nuget\\packages\\",
-        "outputPath": "E:\\C-Sharp\\MVVM\\One\\One\\obj\\",
+        "outputPath": "E:\\AutoPro\\One\\One\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"
