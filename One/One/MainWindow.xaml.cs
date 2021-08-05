@@ -12,11 +12,13 @@ namespace One
     /// </summary>
     public partial class MainWindow : Window
     {
-
+        Super Super;
         ParserWorker<string[]> parser;
 
         public MainWindow()
         {
+            Super = new Super { Name = "vania" };
+
             InitializeComponent();
             parser = new ParserWorker<string[]>(
                     new AutoProParser()
