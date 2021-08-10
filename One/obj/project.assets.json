@@ -636,11 +636,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\AutoPro\\One\\One\\One.csproj",
+      "projectUniqueName": "E:\\AutoPro\\One\\One.csproj",
       "projectName": "One",
-      "projectPath": "E:\\AutoPro\\One\\One\\One.csproj",
+      "projectPath": "E:\\AutoPro\\One\\One.csproj",
       "packagesPath": "C:\\Users\\nikit\\.nuget\\packages\\",
-      "outputPath": "E:\\AutoPro\\One\\One\\obj\\",
+      "outputPath": "E:\\AutoPro\\One\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\"
